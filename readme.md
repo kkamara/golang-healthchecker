@@ -1,4 +1,4 @@
-# golang-healthchecker
+# golang-healthchecker [![Healthchecker Pipeline](https://github.com/kkamara/golang-healthchecker/actions/workflows/ci.yml/badge.svg)](https://github.com/kkamara/golang-healthchecker/actions/workflows/ci.yml)
 
 (22-Nov-2023) go run . --domain pexels.com
 
