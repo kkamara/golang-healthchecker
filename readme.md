@@ -1,6 +1,6 @@
 # golang-healthchecker
 
-(22-Nov-2023) go run --domain pexels.com
+(22-Nov-2023) go run . --domain pexels.com
 
 ## Requirements
 
