@@ -2,7 +2,7 @@
 
 (22-Nov-2023) go run --domain pexels.com
 
-## To run locally
+## Usage
 
 ```bash
 go run --domain pexels.com
