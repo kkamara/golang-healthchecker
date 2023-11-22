@@ -2,6 +2,10 @@
 
 (22-Nov-2023) go run --domain pexels.com
 
+## Requirements
+
+* [Go](https://www.golang.org).
+
 ## Usage
 
 ```bash
