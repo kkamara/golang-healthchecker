@@ -5,9 +5,16 @@
 ## Usage
 
 ```bash
-go run --domain pexels.com
+go run . --domain pexels.com
 > [UP] pexels.com is reachable
 > From: 192.168.1.232:51061
+> To: 104.16.235.10:80
+```
+
+```bash
+go run . -d pexels.com -p 80
+> [UP] pexels.com is reachable
+> From: 192.168.1.231:51062
 > To: 104.16.235.10:80
 ```
 
